@@ -14,7 +14,7 @@ Swipe right to keep, left to delete. Free up gigabytes in minutes.
 <br>
 
 <!-- Replace with your real App Store URL once approved -->
-[**Download on the App Store**](#) · [Privacy](/privacy/) · [Support](/support/)
+[**Download on the App Store**](#) · [Privacy](/privacy.md/) · [Support](/support.md/)
 
 </div>
 
