@@ -1,0 +1,20 @@
+title: PhotoSwipe
+description: Clean your camera roll the fun way. Swipe right to keep, left to delete.
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: pretty
+
+# Used in the social sharing meta tags
+url: https://vilgotmoeschlin.github.io
+baseurl: /photoswipe-site
+
+# Footer
+author:
+  name: Vilgot Moeschlin
+  email: vilgot@moeschlin.com
+
+# Don't process the README, it's deployment instructions
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
