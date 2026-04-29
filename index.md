@@ -35,7 +35,7 @@ PhotoSwipe turns your iPhone's photo library into a Tinder-style stack. Hold up 
 
 ## Privacy first
 
-PhotoSwipe never sends your photos anywhere. No accounts, no analytics, no servers. Everything happens on your device. Read the [full privacy policy](/privacy/).
+PhotoSwipe never sends your photos anywhere. No accounts, no analytics, no servers. Everything happens on your device. Read the [full privacy policy](/privacy.md/).
 
 ---
 
