@@ -5,16 +5,17 @@ title: PhotoSwipe — Clean your camera roll
 
 <div align="center">
 
-# PhotoSwipe
+<h1>PhotoSwipe</h1>
 
-### Clean your camera roll the fun way.
+<h3>Clean your camera roll the fun way.</h3>
 
-Swipe right to keep, left to delete. Free up gigabytes in minutes.
+<p>Swipe right to keep, left to delete. Free up gigabytes in minutes.</p>
 
-<br>
-
-<!-- Replace with your real App Store URL once approved -->
-[**Download on the App Store**](#) · [Privacy](/privacy/) · [Support](/support/)
+<p>
+  <a href="#">Download on the App Store</a> ·
+  <a href="/privacy/">Privacy</a> ·
+  <a href="/support/">Support</a>
+</p>
 
 </div>
 
