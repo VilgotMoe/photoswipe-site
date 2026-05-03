@@ -32,7 +32,7 @@ Cleanup turns your phone's photo library into a swipe style game. Hold up the ph
 - **Batch delete** — one prompt for the whole session, not one per photo
 - **Undo** — the last swipe is always reversible
 - **Free tier**: 50 swipes per day, photos only
-- **Pro ($9.99 one-time)**: unlimited swipes, videos tab unlocked, all future Pro features
+- **Pro ($4.99 one-time)**: unlimited swipes, videos tab unlocked, all future Pro features
 
 ## Privacy first
 
