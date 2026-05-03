@@ -5,7 +5,7 @@ title: Clean your camera roll
 
 <div align="center">
 
-<h1>PhotoSwipe</h1>
+<h1>Cleanup</h1>
 
 <h3>Clean your camera roll the fun way.</h3>
 
@@ -23,7 +23,7 @@ title: Clean your camera roll
 
 ## What is it?
 
-PhotoSwipe turns your phone's photo library into a swipe style game. Hold up the photo you don't recognize, swipe, done. iOS handles the actual deletion securely with one confirmation per batch.
+Cleanup turns your phone's photo library into a swipe style game. Hold up the photo you don't recognize, swipe, done. iOS handles the actual deletion securely with one confirmation per batch.
 
 ## Features
 
@@ -36,7 +36,7 @@ PhotoSwipe turns your phone's photo library into a swipe style game. Hold up the
 
 ## Privacy first
 
-PhotoSwipe never sends your photos anywhere. No accounts, no analytics, no servers. Everything happens on your device. Read the [full privacy policy](/photoswipe-site/privacy/).
+Cleanup never sends your photos anywhere. No accounts, no analytics, no servers. Everything happens on your device. Read the [full privacy policy](/photoswipe-site/privacy/).
 
 ---
 
