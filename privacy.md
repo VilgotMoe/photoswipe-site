@@ -11,19 +11,19 @@ permalink: /privacy/
 
 ## Summary, in one sentence
 
-PhotoSwipe runs entirely on your device. We do not collect, store, or transmit any personal data — because we have no servers and no analytics.
+Cleanup runs entirely on your device. We do not collect, store, or transmit any personal data — because we have no servers and no analytics.
 
 ---
 
 ## 1. Who we are
 
-PhotoSwipe ("the app", "we", "us", "our") is published by Vilgot Moeschlin, an individual developer based in Sweden, in the role of data controller under the EU General Data Protection Regulation (GDPR).
+Cleanup ("the app", "we", "us", "our") is published by Vilgot Moeschlin, an individual developer based in Sweden, in the role of data controller under the EU General Data Protection Regulation (GDPR).
 
 **Contact:** vilgot@moeschlin.com
 
 ## 2. What data the app accesses on your device
 
-PhotoSwipe needs access to your **Photos library** to function. With your explicit permission (granted via the system prompt at first launch, as required by Apple iOS), the app:
+Cleanup needs access to your **Photos library** to function. With your explicit permission (granted via the system prompt at first launch, as required by Apple iOS), the app:
 
 - Reads photos and videos to display them as swipe cards
 - Reads metadata (date, dimensions, file size, duration) to show on each card
@@ -33,7 +33,7 @@ All of this happens locally on your device. **Your photos, videos, and any data 
 
 ## 3. What data we receive when you purchase Pro
 
-When you purchase "PhotoSwipe Pro" as an in-app purchase, **Apple processes the transaction as the App Store payment processor**. We do not see your payment details, your name, or your Apple ID.
+When you purchase "Cleanup Pro" as an in-app purchase, **Apple processes the transaction as the App Store payment processor**. We do not see your payment details, your name, or your Apple ID.
 
 Apple provides us only with aggregated, anonymised sales reports (for example: "10 units sold in Sweden this week"). These reports cannot be used to identify any individual user.
 
@@ -41,7 +41,7 @@ Apple's privacy practices are governed by Apple's own privacy policy: <https://w
 
 ## 4. Data we do not collect
 
-To be explicit, PhotoSwipe does **not** collect:
+To be explicit, Cleanup does **not** collect:
 
 - Your name, email, phone number, or address
 - Your IP address or device identifiers
@@ -84,7 +84,7 @@ We do not transfer any personal data internationally because we do not collect a
 
 ## 9. Children
 
-PhotoSwipe is not directed to children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with information, contact vilgot@moeschlin.com.
+Cleanup is not directed to children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with information, contact vilgot@moeschlin.com.
 
 ## 10. Changes to this policy
 
