@@ -6,7 +6,7 @@ permalink: /support/
 
 # Support
 
-Need help with PhotoSwipe? You're in the right place.
+Need help with Cleanup? You're in the right place.
 
 **Direct contact:** vilgot@moeschlin.com — I read every email and try to reply within 48 hours.
 
@@ -38,13 +38,13 @@ Yes. Sign into the same Apple ID on the new device, install the app, and Pro is 
 
 Nothing. The purchase is permanently linked to your Apple ID. Reinstall any time and Pro is back.
 
-### Why does PhotoSwipe need photo access?
+### Why does Cleanup need photo access?
 
 To show your photos as swipe cards and to ask iOS to delete the ones you mark. We never copy, upload, or transmit any photo or video. See the [privacy policy](/privacy/).
 
 ### Can I get a refund?
 
-In-app purchases on the App Store are processed by Apple, not us. To request a refund, visit <https://reportaproblem.apple.com> and select your PhotoSwipe Pro purchase. Apple decides on refunds; we have no say in that decision.
+In-app purchases on the App Store are processed by Apple, not us. To request a refund, visit <https://reportaproblem.apple.com> and select your Cleanup Pro purchase. Apple decides on refunds; we have no say in that decision.
 
 ### I have a feature request / bug
 
