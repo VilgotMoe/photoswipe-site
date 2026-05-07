@@ -12,7 +12,7 @@ title: Clean your camera roll
 <p>Swipe right to keep, left to delete. Free up gigabytes in minutes.</p>
 
 <p>
-  <a href="#">Download on the App Store</a> ·
+  <a href="https://apps.apple.com/se/app/cleanup-camera-roll/id6765927908?l=en-GB">Download on the App Store</a> ·
   <a href="/photoswipe-site/privacy/">Privacy</a>
   <a href="/photoswipe-site/support/">Support</a>
 </p>
